@@ -3,7 +3,7 @@ Odin Project NodeJS Course
 
 Very basic informational site that contains 4 pages: index, about, contact-me and 404.
 
-Assignment: rewrite Odin-Project-Basic-NodeJS-Informational-Site using express!
+Assignment: rewrite Odin-Project-Basic-NodeJS-Informational-Site using Express!
 
 How to run:
   - download project
